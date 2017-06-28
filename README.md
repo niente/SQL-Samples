@@ -1,6 +1,8 @@
 # SQL-Samples
 Sample SQL content.
 
+-------------------------------------------------------------------------------
+
 School Database:
 - Implement a database in third normal form including these tables:
 - Department, Course, Faculty, Section, Location, Student.
