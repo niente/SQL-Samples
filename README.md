@@ -8,4 +8,5 @@ School Database:
     - Department Name, Section #, Course, Schedule, Time, Location, Professor
     
 school_database_schema.png - a picture of the DB schema
+
 build_school_database.sql - an SQL script that implements the database
